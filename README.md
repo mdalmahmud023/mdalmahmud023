@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Al Mahmud
-![](https://www.facebook.com/photo/?fbid=923499835485178&set=a.132264181275418)
+![]()
 
 
 - 🌱 I’m currently learning C Programming 
