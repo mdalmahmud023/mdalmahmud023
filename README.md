@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="img/mdalmahmud.png" alt="img">
+</p>
 <h1 align="center">Hi 👋, I'm Md Al Mahmud</h1>
 <h3 align="center">Welcome to my github profile. I enjoy tech related stuff.</h3>
 
